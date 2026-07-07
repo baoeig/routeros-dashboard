@@ -1,0 +1,5 @@
+{
+  "name": "routeros-dashboard",
+  "private": true,
+  "workspaces": ["server", "client"]
+}
